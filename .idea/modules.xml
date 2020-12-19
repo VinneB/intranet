@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IntraNet.iml" filepath="$PROJECT_DIR$/IntraNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intranet-client/intranet-client.iml" filepath="$PROJECT_DIR$/intranet-client/intranet-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intranet-server/intranet-server.iml" filepath="$PROJECT_DIR$/intranet-server/intranet-server.iml" />
+    </modules>
+  </component>
+</project>
